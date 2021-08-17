@@ -1,0 +1,87 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+        font-family: 'Poppins', sans-serif;
+        font-size: 1rem;
+        font-weight: 400;
+
+}
+.one{
+    position: fixed;
+}
+.one img{
+    width: 250vh;
+    height: 100vh;
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover; 
+    opacity: 0.9;
+    margin-top: -26px;
+}
+.box1{
+    
+    padding: 43px;
+    line-height: 30px; 
+    margin-top: 60px;
+}
+.two{
+    width: 600px;
+    height: 1380px;
+    margin-left: 29%;
+    margin-top: 0;
+    position: sticky;
+    background-color: #ffffea;
+    opacity: 0.7;
+}
+#fname{
+
+    width: 493px;
+    height: 33px;
+}
+#email{
+    
+    width: 493px;
+    height: 33px;
+
+}
+#age{
+
+    width: 493px;
+    height: 33px;
+}
+#tt{
+
+    width: 493px;
+    height: 33px;
+}
+#wh{
+    width: 493px;
+    height: 90px;
+}
+button{
+    width: 493px;
+    height: 35px;
+}
+h1,h4{
+    text-align: center;
+    margin-top: 26px;
+    position: relative;
+    top: 49px;
+}
+h1{
+    font-size: 41px;
+}
+h4{
+    font-size: 18px;
+}
+.headd h1{
+    color:  #ffffea;
+
+}
+input{
+    border: 2px solid black;
+}
